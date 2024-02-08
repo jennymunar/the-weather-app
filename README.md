@@ -5,7 +5,11 @@
 * You will get the forecast for today's date + the following 5 days
 * You will find the temperature, humidity levels and wind speed
 
-### Deployed page
+### Screenshot
+![](/assets/images/Image%202-7-24%20at%2010.31 PM.jpg)
+
+#### Deployed page
+https://jennymunar.github.io/the-weather-app/
 
 #### External Resources
 * https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/
